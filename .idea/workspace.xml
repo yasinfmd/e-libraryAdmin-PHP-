@@ -100,7 +100,7 @@
         <option value="$PROJECT_DIR$/Middleware/TokenControl.php" />
         <option value="$PROJECT_DIR$/Istatistic/Istatistic.php" />
         <option value="$PROJECT_DIR$/BookTypes/BooksTypes.php" />
-        <option value="$USER_HOME$/Desktop/e-library/src/pages/Dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/../../e-library/src/pages/Dashboard/Dashboard.js" />
         <option value="$PROJECT_DIR$/dbclas/pdocls.php" />
         <option value="$PROJECT_DIR$/Authors/Authors.php" />
         <option value="$PROJECT_DIR$/Books/Books.php" />
@@ -202,18 +202,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
+  <component name="RunManager">
     <configuration type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" url="">
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.index.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -330,7 +325,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/e-library/src/pages/Authors/AuthorsDetail.js">
+    <entry file="file://$PROJECT_DIR$/../../e-library/src/pages/Authors/AuthorsDetail.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
@@ -340,7 +335,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/e-library/src/pages/Dashboard/Dashboard.js">
+    <entry file="file://$PROJECT_DIR$/../../e-library/src/pages/Dashboard/Dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="98" column="43" lean-forward="true" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="43" />
